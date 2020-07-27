@@ -9,11 +9,9 @@
 - 📫 Linkedin Id : https://www.linkedin.com/in/sarfraj-alam-45224119b/
 
 ### Skills :
-  - Machine Learning
-  - Data Visualization
-  - Git and Github
-  - Python
-  - Django
+  - Machine Learning                        - Data Visualization
+  - Git and Github                          - PHP, HTML and CSS
+  - Python                                  - Django
   
 ### Areas of Interest : 
   - Machine Learning
