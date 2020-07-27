@@ -1,7 +1,7 @@
 ### Carrer Objective :
   -To make my dreams true and to achieve success in my life.
   
-### Achievements : 
+### Gist About Me : 
 - 🔭 I’m currently working on Machine Learning using Python.
 - 🌱 I’m currently learning Web Developement.
 - 👯 I’m looking to collaborate on any idea.
