@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Web Developement.
 - 👯 I’m looking to collaborate on any idea.
 - 💬 Ask me about Python.
-- 📫 Connect me on Linkedin : https://www.linkedin.com/in/sarfraj-alam-45224119b/
+- 📫 Linkedin Id : https://www.linkedin.com/in/sarfraj-alam-45224119b/
 
 ### Skills ;
   - Machine Learning
