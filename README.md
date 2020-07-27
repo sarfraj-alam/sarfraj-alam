@@ -8,7 +8,7 @@
 - 💬 Ask me about Python.
 - 📫 Linkedin Id : https://www.linkedin.com/in/sarfraj-alam-45224119b/
 
-### Skills ;
+### Skills :
   - Machine Learning
   - Data Visualization
   - Git and Github
