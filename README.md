@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.com/sarfraj-alam/sarfraj-alam.svg)](http://hits.dwyl.com/sarfraj-alam/sarfraj-alam)
 ### Carrer Objective :
   -To make my dreams true and to achieve success in my life.
   
