@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**sarfraj-alam/sarfraj-alam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 ### Carrer Objective :
   -To make my dreams true and to achieve success in my life.
   
